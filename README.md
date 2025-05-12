@@ -6,7 +6,8 @@ Reference library of links to openly available literature over the internet.
 ### DSP
 - [ARM: Digital Signal Processing using Arm Cortex-M based Microcontrollers eBook](https://github.com/arm-university/Digital-Signal-Processing-using-Arm-Cortex-M-based-Microcontrollers)  
 - [Introduction to Statistical Signal Processing eBook](https://ee.stanford.edu/~gray/sp.html)  
-
+- [Fundamentals of Signal Processing and Wavelets eBook](https://fourierandwavelets.org/)  
+- [Signal Processing for Communications eBook](https://www.sp4comm.org/download.html)  
 ### Radar and EW
 - [MIT/LL: Intro to Radar Course](https://www.ll.mit.edu/outreach/radar-introduction-radar-systems-online-course)  
 - [DTIC: Electronic Warfare and Radar Systems Engineering eBook](https://apps.dtic.mil/sti/citations/ADA617071)  
