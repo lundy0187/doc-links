@@ -31,7 +31,11 @@ Reference library of links to openly available literature over the internet.
 - [CRC Polynomial Zoo](https://users.ece.cmu.edu/~koopman/crc/crc32.html)  
 ##### LFSR
 - [Analog Devices: Pseudo RNG Using LFSR Note](https://www.analog.com/en/resources/design-notes/random-number-generation-using-lfsr.html)  
-- [University of Otago: Table of LFSR Polynomials](https://www.physics.otago.ac.nz/reports/electronics/ETR2012-1.pdf)  
+- [University of Otago: Table of LFSR Polynomials](https://www.physics.otago.ac.nz/reports/electronics/ETR2012-1.pdf)
+
+## Machine Learning
+### Math
+- [Mathematics for Machine Learning eBook](https://mml-book.github.io/)  
 
 ## Software
 
