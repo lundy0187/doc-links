@@ -38,7 +38,7 @@ Reference library of links to openly available literature over the internet.
 - [USRP Hardware Driver and USRP Manual](https://files.ettus.com/manual/index.html)  
 
 #### Cyclic Redundancy Check References
-- [A Painless Guide to CRC Error Detection Algorithms eBook](http://www.ross.net/crc/crcpaper.html)  
+- [A Painless Guide to CRC Error Detection Algorithms eBook](http://ross.net/crc/download/crc_v3.txt)  
 - [Analog Devices: CRC Programming MAX14900E Note](https://www.analog.com/en/resources/app-notes/crc-programming-for-the-max14900e-octal-highspeed-industrial-switch.html)  
 - [CRC Polynomial Zoo](https://users.ece.cmu.edu/~koopman/crc/crc32.html)  
 
